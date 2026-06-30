@@ -1,0 +1,18 @@
+{
+  "weekday": "monday",
+  "module": "prompt_engineering",
+  "lessons": [
+    {"id": "mon-01", "title": "What is Prompt Engineering?", "sequence": 1},
+    {"id": "mon-02", "title": "Zero-shot vs Few-shot Prompting", "sequence": 2},
+    {"id": "mon-03", "title": "Role Prompting and Personas", "sequence": 3},
+    {"id": "mon-04", "title": "Chain-of-Thought Prompting", "sequence": 4},
+    {"id": "mon-05", "title": "Structured Output Prompting (JSON/XML)", "sequence": 5},
+    {"id": "mon-06", "title": "Prompt Templates and Reusability", "sequence": 6},
+    {"id": "mon-07", "title": "System Prompts vs User Prompts", "sequence": 7},
+    {"id": "mon-08", "title": "Negative Prompting and Constraints", "sequence": 8},
+    {"id": "mon-09", "title": "Iterative Prompt Refinement", "sequence": 9},
+    {"id": "mon-10", "title": "Evaluating Prompt Quality", "sequence": 10},
+    {"id": "mon-11", "title": "Prompt Injection Risks and Mitigation", "sequence": 11},
+    {"id": "mon-12", "title": "Multi-step Prompt Chains", "sequence": 12}
+  ]
+}

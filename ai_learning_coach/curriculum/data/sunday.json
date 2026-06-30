@@ -1,0 +1,19 @@
+{
+  "weekday": "sunday",
+  "module": "review_quiz",
+  "lesson_type": "quiz",
+  "lessons": [
+    {"id": "sun-01", "title": "Weekly Review: Prompt Engineering Fundamentals", "sequence": 1},
+    {"id": "sun-02", "title": "Weekly Review: AI Agents and OpenClaw", "sequence": 2},
+    {"id": "sun-03", "title": "Weekly Review: Cisco/F5 Network Automation", "sequence": 3},
+    {"id": "sun-04", "title": "Weekly Review: Python and Programming Practices", "sequence": 4},
+    {"id": "sun-05", "title": "Weekly Review: Advanced Prompting and AI Trends", "sequence": 5},
+    {"id": "sun-06", "title": "Weekly Review: Mini Project Concepts Recap", "sequence": 6},
+    {"id": "sun-07", "title": "Weekly Review: Prompt Engineering Deep Dive", "sequence": 7},
+    {"id": "sun-08", "title": "Weekly Review: Agent Architectures Recap", "sequence": 8},
+    {"id": "sun-09", "title": "Weekly Review: Automation and DevOps Recap", "sequence": 9},
+    {"id": "sun-10", "title": "Weekly Review: Python Best Practices Recap", "sequence": 10},
+    {"id": "sun-11", "title": "Weekly Review: AI Trends Recap", "sequence": 11},
+    {"id": "sun-12", "title": "Weekly Review: Full Curriculum Cumulative Quiz", "sequence": 12}
+  ]
+}

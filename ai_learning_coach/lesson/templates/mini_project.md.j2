@@ -1,0 +1,22 @@
+🏗 *Mini Project: {{ title }}*
+_Saturday · Mini Project · ⏱ {{ estimated_time }}_
+
+🎯 *Objectives*
+{% for obj in objectives %}• {{ obj }}
+{% endfor %}
+📦 *Requirements*
+{% for req in requirements %}• {{ req }}
+{% endfor %}
+🪜 *Steps*
+{% for step in steps %}{{ loop.index }}. {{ step }}
+{% endfor %}
+📤 *Deliverables*
+{% for d in deliverables %}• {{ d }}
+{% endfor %}
+💡 *Hints*
+{% for hint in hints %}• {{ hint }}
+{% endfor %}
+🚀 *Extension Ideas*
+{% for idea in extension_ideas %}• {{ idea }}
+{% endfor %}
+_AI Learning Coach · {{ publish_date }}_

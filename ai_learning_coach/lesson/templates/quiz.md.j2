@@ -1,0 +1,18 @@
+🧪 *{{ title }}*
+_Sunday · Weekly Review & Quiz_
+
+📝 *Weekly Summary*
+{{ summary }}
+
+❓ *Quiz Time — 5 Questions*
+{% for q in questions %}
+*Q{{ loop.index }}. {{ q.question }}*
+A) {{ q.options.A }}
+B) {{ q.options.B }}
+C) {{ q.options.C }}
+D) {{ q.options.D }}
+
+✅ Correct Answer: *{{ q.correct_answer }}*
+💬 Explanation: {{ q.explanation }}
+{% endfor %}
+_AI Learning Coach · {{ publish_date }}_

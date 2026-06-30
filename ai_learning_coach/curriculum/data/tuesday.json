@@ -1,0 +1,18 @@
+{
+  "weekday": "tuesday",
+  "module": "openclaw_ai_agents",
+  "lessons": [
+    {"id": "tue-01", "title": "Introduction to OpenClaw", "sequence": 1},
+    {"id": "tue-02", "title": "What Makes an AI Agent? Core Concepts", "sequence": 2},
+    {"id": "tue-03", "title": "Tool Use and Function Calling in Agents", "sequence": 3},
+    {"id": "tue-04", "title": "Agent Memory: Short-term vs Long-term", "sequence": 4},
+    {"id": "tue-05", "title": "Planning and Task Decomposition for Agents", "sequence": 5},
+    {"id": "tue-06", "title": "Multi-Agent Systems and Orchestration", "sequence": 6},
+    {"id": "tue-07", "title": "Building Agent Workflows with OpenClaw", "sequence": 7},
+    {"id": "tue-08", "title": "Agent Safety, Guardrails and Human-in-the-loop", "sequence": 8},
+    {"id": "tue-09", "title": "Connecting Agents to External APIs", "sequence": 9},
+    {"id": "tue-10", "title": "Evaluating and Debugging Agent Behavior", "sequence": 10},
+    {"id": "tue-11", "title": "Autonomous Agents in DevOps Pipelines", "sequence": 11},
+    {"id": "tue-12", "title": "Future of Agentic AI Systems", "sequence": 12}
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "weekday": "thursday",
+  "module": "python_programming",
+  "lessons": [
+    {"id": "thu-01", "title": "Writing Pythonic Code: Idioms and Best Practices", "sequence": 1},
+    {"id": "thu-02", "title": "Type Hints and Static Analysis with mypy", "sequence": 2},
+    {"id": "thu-03", "title": "Virtual Environments and Dependency Management", "sequence": 3},
+    {"id": "thu-04", "title": "Decorators and Context Managers", "sequence": 4},
+    {"id": "thu-05", "title": "Asynchronous Programming with asyncio", "sequence": 5},
+    {"id": "thu-06", "title": "Working with REST APIs using requests/httpx", "sequence": 6},
+    {"id": "thu-07", "title": "Unit Testing with pytest", "sequence": 7},
+    {"id": "thu-08", "title": "Object-Oriented Design and SOLID Principles", "sequence": 8},
+    {"id": "thu-09", "title": "Working with SQLite and SQLAlchemy", "sequence": 9},
+    {"id": "thu-10", "title": "Packaging and Distributing Python Applications", "sequence": 10},
+    {"id": "thu-11", "title": "Performance Profiling and Optimization", "sequence": 11},
+    {"id": "thu-12", "title": "Building CLI Tools with argparse/click", "sequence": 12}
+  ]
+}

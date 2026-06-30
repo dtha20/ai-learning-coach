@@ -1,0 +1,39 @@
+📚 *{{ title }}*
+_{{ weekday|capitalize }} · {{ module|replace('_', ' ')|title }}_
+
+🎯 *Learning Objectives*
+{% for obj in objectives %}• {{ obj }}
+{% endfor %}
+💡 *Why This Matters*
+{{ why_it_matters }}
+
+🧠 *Concept Explanation*
+{{ concept_explanation }}
+
+🌍 *Real-World Example*
+{{ real_world_example }}
+
+📋 *Copy-Ready Prompt*
+```
+{{ copy_ready_prompt }}
+```
+
+⚠️ *Common Mistakes*
+{% for mistake in common_mistakes %}• {{ mistake }}
+{% endfor %}
+✅ *Best Practices*
+{% for practice in best_practices %}• {{ practice }}
+{% endfor %}
+🛠 *Recommended Tools*
+{% for tool in recommended_tools %}• {{ tool }}
+{% endfor %}
+⏱ *5-Minute Exercise*
+{{ five_minute_exercise }}
+
+🚀 *Advanced Challenge*
+{{ advanced_challenge }}
+
+📝 *Summary*
+{{ summary }}
+
+_AI Learning Coach · {{ publish_date }}_

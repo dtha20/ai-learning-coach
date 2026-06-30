@@ -1,0 +1,19 @@
+{
+  "weekday": "saturday",
+  "module": "mini_project",
+  "lesson_type": "mini_project",
+  "lessons": [
+    {"id": "sat-01", "title": "Build a CLI Tool That Summarizes Text Files", "sequence": 1},
+    {"id": "sat-02", "title": "Build a Telegram Bot That Echoes Cisco Show Commands", "sequence": 2},
+    {"id": "sat-03", "title": "Build a Mini AI Agent That Answers from a Local FAQ", "sequence": 3},
+    {"id": "sat-04", "title": "Automate a Network Device Backup Script", "sequence": 4},
+    {"id": "sat-05", "title": "Build a Prompt Template Library in Python", "sequence": 5},
+    {"id": "sat-06", "title": "Create a Simple REST API with FastAPI", "sequence": 6},
+    {"id": "sat-07", "title": "Build a Log File Anomaly Detector", "sequence": 7},
+    {"id": "sat-08", "title": "Automate F5 Pool Member Health Reporting", "sequence": 8},
+    {"id": "sat-09", "title": "Build a Slack/Telegram DevOps Status Notifier", "sequence": 9},
+    {"id": "sat-10", "title": "Build a Mini RAG Pipeline over Local Markdown Notes", "sequence": 10},
+    {"id": "sat-11", "title": "Create an Android Automation Shortcut with Tasker + API", "sequence": 11},
+    {"id": "sat-12", "title": "Build a Simple CI Pipeline for a Python Project", "sequence": 12}
+  ]
+}

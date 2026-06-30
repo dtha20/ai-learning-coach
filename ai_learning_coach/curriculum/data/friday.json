@@ -1,0 +1,18 @@
+{
+  "weekday": "friday",
+  "module": "advanced_prompting_ai_trends",
+  "lessons": [
+    {"id": "fri-01", "title": "Retrieval-Augmented Generation (RAG) Explained", "sequence": 1},
+    {"id": "fri-02", "title": "Tree-of-Thought and Self-Consistency Prompting", "sequence": 2},
+    {"id": "fri-03", "title": "Prompt Compression and Token Optimization", "sequence": 3},
+    {"id": "fri-04", "title": "Multimodal Prompting (Text, Image, Audio)", "sequence": 4},
+    {"id": "fri-05", "title": "Fine-tuning vs Prompting vs RAG: When to Use Which", "sequence": 5},
+    {"id": "fri-06", "title": "Emerging Trend: Small Language Models (SLMs)", "sequence": 6},
+    {"id": "fri-07", "title": "Emerging Trend: Agentic Coding Assistants", "sequence": 7},
+    {"id": "fri-08", "title": "Evaluating LLMs: Benchmarks and Limitations", "sequence": 8},
+    {"id": "fri-09", "title": "Responsible AI: Bias, Safety and Guardrails", "sequence": 9},
+    {"id": "fri-10", "title": "Context Windows and Long-context Strategies", "sequence": 10},
+    {"id": "fri-11", "title": "AI Trend Watch: Model Context Protocol (MCP)", "sequence": 11},
+    {"id": "fri-12", "title": "The Future of Prompt Engineering as a Discipline", "sequence": 12}
+  ]
+}

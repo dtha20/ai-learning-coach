@@ -1,0 +1,18 @@
+{
+  "weekday": "wednesday",
+  "module": "cisco_f5_automation",
+  "lessons": [
+    {"id": "wed-01", "title": "Introduction to Network Automation", "sequence": 1},
+    {"id": "wed-02", "title": "Cisco CLI Automation with Python and Netmiko", "sequence": 2},
+    {"id": "wed-03", "title": "Using NAPALM for Multi-vendor Network Automation", "sequence": 3},
+    {"id": "wed-04", "title": "Ansible for Cisco Configuration Management", "sequence": 4},
+    {"id": "wed-05", "title": "F5 BIG-IP Basics and iControl REST API", "sequence": 5},
+    {"id": "wed-06", "title": "Automating F5 Load Balancer Pool Updates", "sequence": 6},
+    {"id": "wed-07", "title": "Network Configuration Backups and Version Control", "sequence": 7},
+    {"id": "wed-08", "title": "Telemetry and Monitoring with SNMP and Streaming Telemetry", "sequence": 8},
+    {"id": "wed-09", "title": "Cisco NETCONF/YANG Model-driven Programmability", "sequence": 9},
+    {"id": "wed-10", "title": "Building a Network Health-check Automation Script", "sequence": 10},
+    {"id": "wed-11", "title": "Infrastructure as Code for Networking (Terraform)", "sequence": 11},
+    {"id": "wed-12", "title": "CI/CD Pipelines for Network Configuration Changes", "sequence": 12}
+  ]
+}
